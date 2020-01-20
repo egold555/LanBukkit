@@ -1,0 +1,6 @@
+name: LanBukkit
+main: org.golde.bukkit.lan.Main
+version: 1.0
+author: Eric Golde
+description: Why you would want this I dont know
+website: http://eric.golde.org/
